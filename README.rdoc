@@ -1,5 +1,10 @@
-== README ==
+== README
 
 
 first rails app
+pretty basic blogging app
+ability to create modify articels and have a database of usersnames 
+also database of articles
+
+basically a test app
 
